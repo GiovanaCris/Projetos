@@ -1,0 +1,113 @@
+Aula 14-05-2025
+
+	    >>>>>>>>>EXEMPLOS DE PROCESSOS ÁGEIS<<<<<<<<
+Scrum -> Interação de trabalho (sprints)
+
+Kanban -> Visualização do fluxo de trabalho
+
+Extreme Programming (XP) -> Foca em boas práticas de desenvolvimento como integração contínua e testes automáticos
+
+Lean -> Busca eliminar desperdícios e maximizar o valor entregue
+
+	    >>>>>>>>>>SCRUM<<<<<<<<<<
+Scrum é um framework ÁGIL usado para o desenvolvimento, entrega, e mantimento de produtos complexos - especialmente software - de forma colaborativa, interativa e incremental.
+
+	    >>>>>>>>>>COMPONENTES SCRUM<<<<<<<<<
+Product Owner (PO) -> Responsável por maximizar o valor do produto. Define e prioriza os itens do Product Backlog (lista de funcionalidades)
+
+Scrum Master -> Facilita o processo scrum, remove impedimentos e ajuda a equipe a seguir os princípios ágeis. Atua como um líder servo.
+
+Time de dev -> Equipe multidisciplinar que executa o trabalho. É auto-organizada e responsável por entregar o incremento do produto.
+
+	    >>>>>>>>>EVENTO (CERIMÔNIAS)<<<<<<<<<
+Sprint -> Ciclo de trabalho fixo (geralmente de 2 a 4 semanas)
+
+Sprint planning -> Reunião para planejar o que será feito na sprint e como o trabalho será realizado.
+
+Daily scrum (Reunião diária) -> Encontro de 15 minutos onde o time compartilha progresso, planos e obstáculos.
+
+Sprint Review -> Apresentação do que foi desenvolvido, com feedback do cliente ou stakeholders
+
+Sprint Retrospective -> Reunião final para refletir sobre o que funcionou, o que pode melhorar e como o time pode evoluir.
+
+	    >>>>>>>>>>>ARTEFATOS<<<<<<<<<<<<
+Product Backlog -> LLista priorizada de tudo que precisa sewr desenvolvido no produto.
+
+Sprint Backlog -> Conjunto de itens selecionados do Product Backlog para a sprint, mais o plano de ação.
+
+Product Incremento -> Produto potencialmente utilizável entregue no final da sprint. Deve estar pronto (Done) segundo critérios acordados.
+
+
+	    >>>>>>>>>>>KANBAN<<<<<<<<<<<
+Kanban é um método ágil de gestão visual de trabalho, focado em melhorar o fluxo de tarefas dentro de um processo. Ele ajuda as equipes a visualizarem o que está sendo feito, limitarem o trabalho em progresso e aumentarem a eficiência contínua.
+
+Visualizar o fluxo de trabalho -> Usando um quadro Kanban com colunas que representam os estágios do processo (ex: "A fazer", "Em andamento" e "Feito").
+
+Limitar o trabalho em progresso (WIP) -> Se define em um número máximo de tarefas que podem estar em andamento ao mesmo tempo, para evitar sobrecarga.
+
+Gerenciar o Fluxo -> O foco está em manter um ritmo constante e suave no andamento 
+
+
+	   >>>>>>>>>LEAN<<<<<<<<<<
+Lean é uma filosofia de gestão focada em eliminar disperdícios, maximizar valor para o cliente e otimizar continuamente os processos. Ele teve origem no sistema de produção da Toyota, no Japão, e depois adaptado para áreas como software. startups, saúde, serviços, entre outras.
+OBJETIVO -> Entregar mais valor ao cliente com menos recursos
+
+Valor -> Identificar o que realmente importa para o cliente e focar nisso.
+
+Fluxo de valor -> Mapear todas as etapas do processo e eliminar o que não tem valor.
+
+Sistema puxado (Pull) -> Produzir sob demanda, ou seja, só começar algo quando há necessidade real - evitando excesso de trabalho em progresso.
+
+Perfeição (Perfection) -> Melhorar continuamente, buscando a excelência com base em feedback eaprendizado.
+
+	   >>>>>>>>>>>>> XP (Extreme programming) <<<<<<<<<<<
+- Metodologia ágil de desenvolvimento de software focada em alta qualidade técnica e resposta rápida e mudanças, por meio de práticas intensas e colaborativas.
+
+- Criado por KENT BECK nos anos 1990, XP leva boas práticas de desenvolvimento "ao extremo" - como programação em par, testes frequentes e integração contínua - para garantir um código mais limpo, flexível e confiável.
+
+	   >>>>>>>>>>>PRINCIPIOS DO XP<<<<<<<<<<<<
+Comunicação -> Entre desenvolvedores, cliente e equipe.
+
+Simplicidade -> Só escrever o que for realmente necessário.
+
+Feedback rápido -> de testes, do cliente e da equipe.
+
+Coragem -> Para mudar o que for necessário.
+
+Respeito -> Entre os membros do time.
+
+	   >>>>>>>>>>>>CARACTERÍSTICAS PRICIPAIS DO XP<<<<<<<<< 
+CLIENTE ENVOLVIDO COM O CLIENTE E TESTES AUTOMATIZADOS = XP
+
+Desenvolvimento interativo e incremental -> o trabalho é dividido em pequenas interações (geralmente de 1 a 2 semanas), com entregas frequentes e feedback constante.
+
+Feedback contínuo -> Cliente envolvido durante todo o processo.
+
+Qualidade acima de tudo -> Testes automatizados e refatoração constante.
+
+	   >>>>>>>>>>VANTAGENS XP<<<<<<<<<<<
+
+- Responde bem a mudanças de escopo.
+- Gera software de alta qualidade.
+- Reduz falhas em produção.
+- Melhora a comunicação na equipe.
+- Entregas rápidas e frequentes.
+
+	   >>>>>>>>>>>DESVANTAGENS XP<<<<<<<<<<<<
+
+- Pode ser difícil de aplicar em projetos mt grandes
+
+- Requer forte disciplina da equipe.
+
+- Nem sempre há um cliente disponível full-time.
+
+- Pode gerar sobrecarga se não for bem planejado.
+
+>>>>>>>>> DEFINIÇÃO SCRUM <<<<<<<<<<<
+- Uma abordagem ágil focada na entrega de vakir de forma interativa e incremental.
+
+- Pilares fundamentais -> Transparência, inspeção e a adaptação.
+
+- Promove a colaboração intensa entre as equipes e a melhoria contínua do produto.
+
+
